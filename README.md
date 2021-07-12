@@ -6,7 +6,7 @@
 
 <br>
 
-###   🧠  Computer Science
+###   🧠  Computer Architecture
 
 
 |No.|Content|
