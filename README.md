@@ -2,11 +2,11 @@
 
 <br>
 
-###  📚 Computer Science  📚
+###  📚 **Computer Science (CS)**  📚
 
 <br>
 
-###   🧠  Computer Architecture
+> ###   🧠  Computer Architecture
 
 
 |No.|Content|
@@ -19,3 +19,5 @@
 |6| [ 패리티 비트 & 해밍 코드 ](컴퓨터구조/6_패리티비트-해밍코드.md) |
 |7| [ ARM 프로세서 ](컴퓨터구조/7_ARM프로세서.md) |
 ---
+
+
