@@ -3,7 +3,7 @@
 <br>
 
 ### 프로세서란?     
--> 메모리에 저장된 명령어들을 실행하는 유한 상태 오토마톤       
+메모리에 저장된 명령어들을 실행하는 유한 상태 오토마톤       
 
 <br>
 
@@ -19,7 +19,7 @@ RISC : Reduced Instruction Set Computing (감소된 명령 집합 컴퓨팅)
 
 ### ARM 구조        
 
-![ARM](https://user-images.githubusercontent.com/56749776/127507619-8406ccad-d5e1-43dc-ade1-e320e62cca7f.jpg)
+![ARM](https://user-images.githubusercontent.com/56749776/127515322-c9c9873f-a875-4601-ba2b-3d7f4f61aded.jpg)
     
 
 <br>
