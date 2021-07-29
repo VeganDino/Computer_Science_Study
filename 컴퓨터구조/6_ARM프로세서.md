@@ -19,7 +19,8 @@ RISC : Reduced Instruction Set Computing (감소된 명령 집합 컴퓨팅)
 
 ### ARM 구조        
 
-![ARM](https://user-images.githubusercontent.com/56749776/127506254-7e69e234-6b1c-4513-931b-40c0c2c84e97.jpg)       
+![ARM](https://user-images.githubusercontent.com/56749776/127507619-8406ccad-d5e1-43dc-ade1-e320e62cca7f.jpg)
+    
 
 <br>
 
