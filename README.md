@@ -26,8 +26,8 @@
 |No.|Content|
 | ------ | ------ |
 |1| [ 키(Key) 정리 ](데이터베이스/1_키정리.md) |
-|2| [ SQL - JOIN ](데이터베이스/2_JOIN.md) |
-|3| [ SQL Injection ](데이터베이스/3_Injection.md) |
+|2| [ JOIN ](데이터베이스/2_JOIN.md) |
+|3| [ Injection ](데이터베이스/3_Injection.md) |
 |4| [ SQL vs NoSQL ](데이터베이스/4_SQL&NoSQL.md) |
 |5| [ 이상(Anomaly) ](데이터베이스/5_이상.md) |
 |6| [ 인덱스(INDEX) ](데이터베이스/6_인덱스.md) |
