@@ -1,7 +1,7 @@
 #  CS STUDY PLAN 
 
 
-###  📚 **Computer Science (CS)**  📚
+##  📚 **Computer Science (CS)**  📚
 
 <br>
 
