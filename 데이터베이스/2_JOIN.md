@@ -15,3 +15,15 @@
 -FULL OUTER JOIN        
 -CROSS JOIN     
 -SELF JOIN      
+
+<br>
+
+### INNER JOIN  
+교집합. 기준 테이블과 join 테이블의 중복된 값을 보여준다.   
+
+<img src ='https://user-images.githubusercontent.com/56749776/136809249-6f9394fc-d0a7-4b81-bdda-e4f91632241e.png' width='70%'>
+
+```SQL
+SELECT A.NAME, B.AGE FROM A
+INNER JOIN B ON A.EMP = B.EMP
+```
